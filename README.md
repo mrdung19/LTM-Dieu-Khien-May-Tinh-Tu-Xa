@@ -22,10 +22,34 @@
 </div>
 
 ## 📖 1. Giới thiệu
-Học phần trang bị cho người học những kiến thức nền tảng của lập trình mạng và các kỹ năng cần thiết để thiết kế và cài đặt các ứng dụng mạng và các chuẩn ở mức ứng dụng dựa trên mô hình Client/Server, có sử dụng các giao tiếp chương trình dựa trên Sockets. Kết thúc học phần, sinh viên có thể viết các chương trình ứng dụng mạng với giao thức tầng ứng dụng tự thiết kế.
+Ứng dụng điều khiển máy tính từ xa (Remote Control) được xây dựng nhằm giúp người dùng có thể **truy cập và điều khiển** máy tính thông qua mạng LAN hoặc Internet.  
+Hệ thống gồm có 2 thành phần:
+
+- 🖥️ **Remote Server**: Máy tính đóng vai trò nhận và thực thi lệnh điều khiển từ xa (chuột, bàn phím, chụp màn hình).
+- 💻 **Remote Client**: Máy tính gửi lệnh điều khiển, hiển thị màn hình từ xa và quản lý phiên kết nối.
+- 👨‍💻 Người dùng có thể:
+  - Gõ văn bản từ xa.
+  - Chụp và lưu ảnh màn hình của máy từ xa.
+  - Giao tiếp client ↔ server qua giao thức Socket (TCP).
+- ✅ Ứng dụng hữu ích trong **Remote Work**, giảng dạy từ xa, hoặc quản trị hệ thống.
 
 ## 🔧 2. Ngôn ngữ lập trình sử dụng: [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
+### 🔹 Java TCP Socket
+- Triển khai mô hình **Client-Server**.
+- Giao tiếp thông qua `DataInputStream` và `DataOutputStream`.
+- Các lệnh được hỗ trợ:  
+  `CAPTURE`, `MOVE`, `CLICK`, `TEXT`.
 
+### 🔹 Java Swing
+- Xây dựng giao diện người dùng thân thiện (GUI).  
+- Các thành phần chính: `JFrame`, `JPanel`, `JButton`, `JTextField`, `JTextArea`.  
+- Cho phép nhập IP, Port và hiển thị log hoạt động.
+
+### 🔹 Robot Class (AWT)
+- Hỗ trợ thao tác trực tiếp trên hệ thống:  
+  - Di chuyển/nhấp chuột.  
+  - Gõ phím văn bản.  
+  - Chụp màn hình và lưu file.
 ## 🚀 3. Các project đã thực hiện
 
 ### [Khoá 16](./docs/projects/K16/README.md)
