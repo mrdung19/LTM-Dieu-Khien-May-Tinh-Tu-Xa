@@ -1,18 +1,16 @@
-
 <h2 align="center">
     <a href="https://dainam.edu.vn/vi/khoa-cong-nghe-thong-tin">
     🎓 Faculty of Information Technology (DaiNam University)
     </a>
 </h2>
 <h2 align="center">
-   Ứng Dụng Điều Khiển Máy Tính Từ Xa
+  ỨNG DỤNG ĐIỀU KHIỂN MÁY TÍNH TỪ XA
 </h2>
 <div align="center">
     <p align="center">
-         <img src="https://github.com/Wipper0000/Student_behavior_recognition/raw/main/anhimage/LogoAIoTLab.png" alt="Ảnh của tôi" width="300"/>
-       <img src="https://raw.githubusercontent.com/Wipper0000/Student_behavior_recognition/refs/heads/main/anhimage/logodnu.webp" alt="DaiNam University Logo" width="300"/>
-  <img src="https://github.com/Wipper0000/Student_behavior_recognition/raw/main/anhimage/LogoAIoTLab.png" alt="Ảnh của tôi" width="300"/>
-        <img src="docs/khoa" alt="DaiNam University Logo" width="200"/>
+        <img src="docs/aiotlab_logo.png" alt="AIoTLab Logo" width="170"/>
+        <img src="docs/fitdnu_logo.png" alt="AIoTLab Logo" width="180"/>
+        <img src="docs/dnu_logo.png" alt="DaiNam University Logo" width="200"/>
     </p>
 
 [![AIoTLab](https://img.shields.io/badge/AIoTLab-green?style=for-the-badge)](https://www.facebook.com/DNUAIoTLab)
@@ -20,7 +18,6 @@
 [![DaiNam University](https://img.shields.io/badge/DaiNam%20University-orange?style=for-the-badge)](https://dainam.edu.vn)
 
 </div>
-
 ## 📖 1. Giới thiệu
 Ứng dụng điều khiển máy tính từ xa (Remote Control) được xây dựng nhằm giúp người dùng có thể **truy cập và điều khiển** máy tính thông qua mạng LAN hoặc Internet.  
 Hệ thống gồm có 2 thành phần:
@@ -47,12 +44,12 @@ Hệ thống gồm có 2 thành phần:
 
 ### 🔹 Robot Class (AWT)
 - Hỗ trợ thao tác trực tiếp trên hệ thống:  
-  - Di chuyển/nhấp chuột.  
+  - Nhấp chuột.  
   - Gõ phím văn bản.  
   - Chụp màn hình và lưu file.
 ## 🚀 3. Các project đã thực hiện
 
-### [Khoá 16](./docs/projects/K16/README.md)
+
 
 ## 📝 4. License
 
