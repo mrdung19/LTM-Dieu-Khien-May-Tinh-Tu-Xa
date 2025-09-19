@@ -64,7 +64,12 @@ Hệ thống gồm có 2 thành phần:
 
 ## 🚀 3. Các project đã thực hiện
 
-    <img src="doc/aiotlab_logo.png" alt="AIoTLab Logo" width="170"/>
+ ### Giao diện chính
+![Giao diện](./giaodien.png)
+
+### Kết nối thành công
+![Kết nối](./ketnoi.png)
+
 
 ## 📝 4. Hướng dẫn và cài đặt 
 
