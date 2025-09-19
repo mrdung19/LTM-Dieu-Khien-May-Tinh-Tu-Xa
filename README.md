@@ -20,7 +20,7 @@
   [![DaiNam University](https://img.shields.io/badge/DaiNam%20University-orange?style=for-the-badge)](https://dainam.edu.vn)
 </div>
 
----
+
 
 ## 📖 1. Giới thiệu
 
@@ -38,7 +38,7 @@ Hệ thống gồm có 2 thành phần:
 
 ✅ Ứng dụng hữu ích trong **Remote Work**, giảng dạy từ xa, hoặc quản trị hệ thống.  
 
----
+
 
 ## 🔧 2. Ngôn ngữ lập trình sử dụng
 
@@ -61,12 +61,10 @@ Hệ thống gồm có 2 thành phần:
   - Gõ phím văn bản.  
   - Chụp màn hình và lưu file.  
 
----
 
 ## 🚀 3. Các project đã thực hiện
 
     <img src="doc/aiotlab_logo.png" alt="AIoTLab Logo" width="170"/>
----
 
 ## 📝 4. Hướng dẫn và cài đặt 
 
