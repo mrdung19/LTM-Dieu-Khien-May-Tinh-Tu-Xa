@@ -67,7 +67,7 @@ Hệ thống gồm có 2 thành phần:
  ### Giao diện chính
 ![Giao diện](./giaodien.png)
 
-### Kết nối thành công
+### Kết nối không thành công
 ![Kết nối](./ketnoi.png)
 
 
