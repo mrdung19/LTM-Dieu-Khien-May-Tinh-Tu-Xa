@@ -72,10 +72,10 @@ Hệ thống gồm có 2 thành phần:
 ## 🚀 3. Các project đã thực hiện
 
  ### Giao diện chính
-![Giao diện](./giaodien.png)
+![Giao diện](./giaodienchinh.png)
 
-### Kết nối không thành công
-![Kết nối](./ketnoi.png)
+### Kết Nối IP
+![Kết nối](./ip.png)
 
 
 ## 📝 4. Hướng dẫn và cài đặt 
