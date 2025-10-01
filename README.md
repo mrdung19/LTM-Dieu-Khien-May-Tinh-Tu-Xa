@@ -71,12 +71,12 @@ Hệ thống gồm có 2 thành phần:
 
 ## 🚀 3. Các project đã thực hiện
 
- ### Giao diện chính
-![Giao diện](./giaodienchinh.png)
-
 ### Kết Nối IP
-![Kết nối](./ip.png)
-
+![Kết nối](./ip.jpg)
+ ### Giao diện chính
+![Giao diện](./giaodienkhiketnoi.jpg)
+### Ảnh đã được lưu
+![Ảnh lưu](./anhluu.jpg)
 
 ## 📝 4. Hướng dẫn và cài đặt 
 
